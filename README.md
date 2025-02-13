@@ -1,7 +1,3 @@
-DISCORD_TOKEN=your_bot_token_here
-
-UPVOTE_EMOJI=👍  # or your preferred emoji ID
-
 To get your Discord bot token:
 1. Go to [Discord Developer Portal](https://discord.com/developers/applications)
 2. Create a new application or select an existing one
@@ -23,7 +19,14 @@ cd Klaude-Auto
 npm install
 ```
 
-3. Create a `.env` file as described in the Environment Setup section
+3. Create a `.env` file and follow the example below:
+```bash
+# Discord Bot Token
+DISCORD_TOKEN=your_token_here
+
+# Emoji ID for reactions (Go to discord, type \<emoji>, you will get its ID like below.)
+UPVOTE_EMOJI=<:n_up:1101198180466573443> 
+```
 
 4. Start the bot
 ```bash
