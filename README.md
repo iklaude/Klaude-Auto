@@ -1,6 +1,6 @@
 DISCORD_TOKEN=your_bot_token_here
+
 UPVOTE_EMOJI=👍  # or your preferred emoji ID
-```
 
 To get your Discord bot token:
 1. Go to [Discord Developer Portal](https://discord.com/developers/applications)
