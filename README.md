@@ -4,7 +4,7 @@ This is a **Discord bot** that automatically reacts to **images, videos, and emb
 
 Now with **channel-specific functionality**!
 
-### ⚙️ FEATURES
+### ⚙️ Features
 - [x] **Auto-reacts to embeds, images, and videos**  
 - [x] **Custom emojis support**  
 - [x] **Channel-specific reaction settings**  
