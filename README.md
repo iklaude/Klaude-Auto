@@ -23,7 +23,7 @@ cd Klaude-Auto
 npm install
 ```
 
-3. Create a `.env` file and follow the example below:
+3. Create a `.env` file and edit by following the example below:
 ```bash
 # Discord Bot Token
 DISCORD_TOKEN=your_token_here
