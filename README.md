@@ -1,6 +1,6 @@
 This is a Discord bot that automatically manages and enhances message reactions with advanced channel-specific configuration and media detection capabilities.
 
-## Create Discord Bot
+## Create a Discord Bot
 
 To get your Discord bot token:
 1. Go to [Discord Developer Portal](https://discord.com/developers/applications)
