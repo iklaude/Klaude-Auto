@@ -1,37 +1,52 @@
-This is a Discord bot that automatically manages and enhances message reactions with advanced channel-specific configuration and media detection capabilities.
+# Klaude's Auto-Reaction Bot
 
-## Create a Discord Bot
+This is a **Discord bot** that automatically reacts to **images, videos, and embeds** with a custom emoji.
+
+Now with **channel-specific functionality**!
+
+### ⚙️ FEATURES
+- [x] **Auto-reacts to embeds, images, and videos**  
+- [x] **Custom emojis support**  
+- [x] **Channel-specific reaction settings**  
+- [x] **Easy setup & deployment**
+- [ ] **Cure your depression**  
+
+## I. CREATE A DISCORD BOT
 
 To get your Discord bot token:
-1. Go to [Discord Developer Portal](https://discord.com/developers/applications)
-2. Create a new application or select an existing one
-3. Go to the "Bot" section
-4. Click "Reset Token" or "Copy" to get your bot token
-5. Paste the token in the `.env` file
+1. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
+2. Click **"New Application"** or select an existing one.
+3. Navigate to the **"Bot"** section.
+4. Click **"Reset Token"** or **"Copy"** to get your bot token.
+5. Paste the token in the `.env` file (**DO NOT share it!**).
 
-⚠️ Important: Never share your bot token or commit the `.env` file to version control!
+⚠️ **Important:** Never share your bot token or commit the `.env` file to version control!
 
-## Installation
-1. Clone the repository
+## II. INSTALLATION
+
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/iklaude/Klaude-Auto.git
 cd Klaude-Auto
 ```
 
-2. Install dependencies
+### 2. Install Dependencies
 ```bash
 npm install
 ```
 
-3. Create a `.env` file and edit by following the example below:
+### 3. Configure Environment Variables
+Create a `.env` file in the project root and add the following:
 ```bash
 # Discord Bot Token
 DISCORD_TOKEN=your_token_here
 
-# Emoji ID for reactions (Go to discord, type \<emoji>, you will get its ID like below.)
-UPVOTE_EMOJI=<:n_up:1101198180466573443> 
+# Emoji ID for reactions
+# To get an emoji ID, type \<emoji> in Discord and copy the result.
+UPVOTE_EMOJI=<:n_up:1101198180466573443>
 ```
 
-4. Start the bot
+### 4. Start the Bot
 ```bash
 npm start
+```
