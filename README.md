@@ -23,6 +23,8 @@ cd Klaude-Auto
 npm install
 ```
 
-3. Start the bot
+3. Create a `.env` file as described in the Environment Setup section
+
+4. Start the bot
 ```bash
 npm start
