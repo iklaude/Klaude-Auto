@@ -7,7 +7,7 @@ To get your Discord bot token:
 2. Create a new application or select an existing one
 3. Go to the "Bot" section
 4. Click "Reset Token" or "Copy" to get your bot token
-5. Paste the token in your `.env` file
+5. Paste the token in the `.env` file
 
 ⚠️ Important: Never share your bot token or commit the `.env` file to version control!
 
