@@ -30,12 +30,17 @@ git clone https://github.com/iklaude/Klaude-Auto.git
 cd Klaude-Auto
 ```
 
-### 2. Install Dependencies
+### 2. Install npm (if not already)
+```bash
+sudo apt install npm
+```
+
+### 3. Install Dependencies
 ```bash
 npm install
 ```
 
-### 3. Configure Environment Variables
+### 4. Configure Environment Variables
 Create a `.env` file in the project root and add the following:
 ```bash
 # Discord Bot Token
