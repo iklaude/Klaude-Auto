@@ -1,10 +1,12 @@
-# Klaude's Auto-Reaction Bot
+# Klaude's Auto-Reaction Bot 🦊
 
 This is a **Discord bot** that automatically reacts to **images, videos, and embeds** with a custom emoji.
 
 Now with **channel-specific functionality**!
 
-Add **Klaude Auto** to you Discord Server: https://discord.com/oauth2/authorize?client_id=1255213375038816286
+[![Add Bot to Server](https://img.shields.io/badge/Add%20Bot%20To%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1255213375038816286)
+[![Realeases](https://img.shields.io/badge/Releases-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iklaude/Klaude-Auto/releases)
+
 
 ### ⚙️ Features
 - [x] **Auto-reacts to embeds, images, and videos**  
@@ -13,18 +15,20 @@ Add **Klaude Auto** to you Discord Server: https://discord.com/oauth2/authorize?
 - [x] **Easy setup & deployment**
 - [ ] **Cure your depression**  
 
-## I. CREATE YOUR OWN DISCORD BOT INSTEAD
+---
+# Host Your Own Discord Bot
+## I. Create Discord Bot
 
 To get your Discord bot token:
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
 2. Click **"New Application"** or select an existing one.
 3. Navigate to the **"Bot"** section.
 4. Click **"Reset Token"** or **"Copy"** to get your bot token.
-5. Paste the token in the `.env` file (**DO NOT share it!**).
+5. Paste the token in the `.env` file
 
 ⚠️ **Important:** Never share your bot token or commit the `.env` file to version control!
 
-## II. INSTALLATION
+## II. Installation
 
 ### 1. Clone the Repository
 ```bash
