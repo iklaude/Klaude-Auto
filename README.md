@@ -24,10 +24,10 @@ To get your Discord bot token:
 2. Click **"New Application"** or select an existing one.
 3. Navigate to the **"Bot"** section.
 4. Click **"Reset Token"** or **"Copy"** to get your bot token.
-5. Paste the token in the `.env` file which we will create in the [installation process](https://github.com/iklaude/Klaude-Auto/main/README.md#4-configure-environment-variables)
+5. Paste the token in the `.env` file which we will create in the [installation process](https://github.com/iklaude/Klaude-Auto/tree/main?tab=readme-ov-file#4-configure-environment-variables)
 
-⚠️ **Important:**
-- **_Never_** share your bot token with anyone
+### ⚠️ Important:
+- **_Never_** share your bot token with anyone else
 - **_Never_** commit the `.env` file to version control! Or else your bot's gonna fall into the hands of token scrappers. 💀
 
 ## II. Installation
