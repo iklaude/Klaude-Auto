@@ -13,7 +13,7 @@ Add **Klaude Auto** to you Discord Server: https://discord.com/oauth2/authorize?
 - [x] **Easy setup & deployment**
 - [ ] **Cure your depression**  
 
-## I. CREATE A DISCORD BOT
+## I. CREATE YOUR OWN DISCORD BOT INSTEAD
 
 To get your Discord bot token:
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
