@@ -4,6 +4,8 @@ This is a **Discord bot** that automatically reacts to **images, videos, and emb
 
 Now with **channel-specific functionality**!
 
+Add Klaude Auto to you Discord Server: https://discord.com/oauth2/authorize?client_id=1255213375038816286
+
 ### ⚙️ Features
 - [x] **Auto-reacts to embeds, images, and videos**  
 - [x] **Custom emojis support**  
